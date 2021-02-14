@@ -13,12 +13,12 @@
     "cheerio": "^1.0.0-rc.2",
     "columnify": "^1.5.4",
     "ga-analytics": "^0.0.7",
-    "hexo-fs": "^0.2.2",
-    "mkdirp": "^0.5.1",
-    "moment": "^2.19.1",
-    "kuromoji": "^0.1.1",
     "hasha": "^3.0.0",
-    "log-util": "^1.2.0"
+    "hexo-fs": "^0.2.2",
+    "kuromoji": "^0.1.1",
+    "log-util": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.19.1"
   },
   "devDependencies": {
     "eslint": "^4.12.0",
